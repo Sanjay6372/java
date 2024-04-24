@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: sanjay9888/javagapp:5
+        image: sanjay9888/javagapp:7
         ports:
         - containerPort: 8080
